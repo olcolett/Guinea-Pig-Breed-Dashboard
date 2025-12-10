@@ -1,0 +1,11 @@
+Food Item,Type,Serving Size (g),Calcium (mg),Phosphorus (mg),Ca_P_Ratio,Vitamin_C (mg),Category
+Bell Pepper (Green),Vegetable,100,10,26,0.4:1,80,High_VitC
+Broccoli Florets,Vegetable,100,47,66,0.7:1,89,High_VitC
+Carrot,Vegetable,100,33,35,0.9:1,6,Low_VitC
+Cilantro,Herb,100,146,48,3.0:1,27,Greens
+Kale,Vegetable,100,150,92,1.6:1,120,High_Calcium
+Romaine Lettuce,Greens,100,36,26,1.4:1,4,Greens
+Spinach,Greens,100,99,49,2.0:1,28,High_Oxalate
+Strawberry,Fruit,100,24,17,1.4:1,59,Treat
+Tomato (Cherry),Fruit,100,10,24,0.4:1,30,Treat
+Timothy Hay,Hay,100,40,20,2.0:1,0,Staple
